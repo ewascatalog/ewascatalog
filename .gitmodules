@@ -1,0 +1,3 @@
+[submodule "r"]
+	path = r
+	url = https://github.com/ewascatalog/ewascatalog-r.git
