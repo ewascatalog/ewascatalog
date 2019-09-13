@@ -4,3 +4,6 @@
 [submodule "ARIES-analysis"]
 	path = ARIES-analysis
 	url = https://github.com/ewascatalog/ARIES-analysis
+[submodule "published-EWAS"]
+	path = published-EWAS
+	url = https://github.com/ewascatalog/published-EWAS
