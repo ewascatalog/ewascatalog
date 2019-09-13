@@ -1,3 +1,6 @@
 [submodule "r"]
 	path = r
 	url = https://github.com/ewascatalog/ewascatalog-r.git
+[submodule "ARIES-analysis"]
+	path = ARIES-analysis
+	url = https://github.com/ewascatalog/ARIES-analysis
