@@ -7,3 +7,6 @@
 [submodule "published-EWAS"]
 	path = published-EWAS
 	url = https://github.com/ewascatalog/published-EWAS
+[submodule "EWAS-analysis"]
+	path = EWAS-analysis
+	url = ./EWAS-analysis/
