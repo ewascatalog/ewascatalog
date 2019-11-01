@@ -7,3 +7,6 @@
 [submodule "EWAS-analysis"]
 	path = EWAS-analysis
 	url = https://github.com/ewascatalog/EWAS-analysis/
+[submodule "Web-apps"]
+	path = Web-apps
+	url = https://github.com/ewascatalog/Web-apps
